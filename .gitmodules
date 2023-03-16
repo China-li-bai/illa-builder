@@ -1,7 +1,7 @@
 [submodule "illa-design"]
 	path = illa-design
-	url = https://github.com/illacloud/illa-design.git
+	url = git@github.com:China-li-bai/illa-design.git
 	branch = develop
 [submodule "apps/builder/src/illa-public-component"]
 	path = apps/builder/src/illa-public-component
-	url = https://github.com/illacloud/illa-public-component.git
+	url = git@github.com:China-li-bai/illa-public-component.git
